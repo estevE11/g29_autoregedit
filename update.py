@@ -1,7 +1,7 @@
 import winreg
 import struct
 
-val = "43 00 08 10 19 00 00 00" # Just to for reference
+# 43 00 08 10 19 00 00 00
 
 path = "System\CurrentControlSet\Control\MediaProperties\PrivateProperties\Joystick\OEM\VID_046D&PID_C24F"
 
